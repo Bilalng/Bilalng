@@ -3,12 +3,6 @@
 **Selamlar, ben Bilal! 👋**
 
 Web backend sistemleri, performans odaklı mobil uygulamalar ve yapay zeka entegrasyonları üzerine yoğunlaşmış bir **Full-Stack Geliştiriciyim**. Geliştirdiğim projelerde temiz kod mimarisine, veritabanı optimizasyonuna ve kullanıcı deneyimine önem veriyorum.
-
-* 🔭 **Şu Anda Ne Yapıyorum:** Gelişmiş rol tabanlı yetkilendirme ve finansal takip mekanizmaları içeren otomasyon sistemleri üzerinde çalışıyorum.
-* 📱 **Mobil Odak:** Konum tabanlı servisler ve Redis gibi yüksek performanslı önbellekleme/kuyruk mimarilerine sahip mobil çözümler üretiyorum.
-* 🧠 **İlgi Alanları:** Teknik ses işleme (ses sinyalleri), yapay zeka otomasyonları ve veri analitiği ile yakından ilgileniyorum.
-* 💬 **İletişim:** Proje fikirleri, mimari tasarımlar veya teknolojik muhabbetler için sosyal medya üzerinden bana ulaşabilirsiniz.
-
 ---
 
 ## 🌐 Sosyal Medya
