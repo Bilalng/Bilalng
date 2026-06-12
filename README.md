@@ -1,7 +1,3 @@
-## 💫 Hakkımda
-
-**Selamlar, ben Bilal! 👋**
-
 Web backend sistemleri, performans odaklı mobil uygulamalar ve yapay zeka entegrasyonları üzerine yoğunlaşmış bir **Full-Stack Geliştiriciyim**. Geliştirdiğim projelerde temiz kod mimarisine, veritabanı optimizasyonuna ve kullanıcı deneyimine önem veriyorum.
 
 ---
